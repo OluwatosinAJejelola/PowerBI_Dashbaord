@@ -1,5 +1,4 @@
 # Data Jobs Dashboard w/ Power Bi
-![Project 1 Dashboard](images\Project_1_image_1.PNG)
 
 ![Data Jobs Dashboard](../images/Project_1_image_1.PNG)
 

@@ -5,7 +5,7 @@ Welcome! This repository showcases a collection of Power BI dashboards I’ve bu
 Below are selected dashboards from this portfolio. Each project includes its own README file that explains the data source, modeling approach, analytical steps, and key insights derived from the dashboard.
 
 ### 📈 Data Jobs Dashboard (V1 – Comprehensive Analysis)
-![Data Jobs Dashboard](images\Project_1_image_1.PNG)
+![Data Jobs Dashboard](images/Project_1_image_1.PNG)
 
 ## Key Power BI Skills Applied
 
@@ -20,6 +20,7 @@ Below are selected dashboards from this portfolio. Each project includes its own
 - 🔖 Buttons and bookmarks for intuitive page navigation  
 - 🔍 Drill-through functionality for deeper data exploration  
 
+<<<<<<< HEAD
 ➡️ **[View full Project 1 documentation](Data_Job_v1\README.md)**
 
 ## Data Jobs Dashboard 2.0 (V2 Single page Focus)
@@ -46,3 +47,6 @@ Below are selected dashboards from this portfolio. Each project includes its own
 
 Each dashboard in this portfolio includes its own dedicated `README.md` within its project folder. These documents provide deeper insight into the project goals, data sources, Power BI techniques used, and a closer look at how each dashboard was built.
 
+=======
+➡️ **[View full Project 1 documentation](./Data_Job_v1/README.md)**
+>>>>>>> e5f4110459fc86b13404d1cad5d5d01cf4cb80dc

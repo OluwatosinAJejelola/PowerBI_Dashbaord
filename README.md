@@ -20,7 +20,7 @@ Below are selected dashboards from this portfolio. Each project includes its own
 - 🔖 Buttons and bookmarks for intuitive page navigation  
 - 🔍 Drill-through functionality for deeper data exploration  
 
-<<<<<<< HEAD
+
 ➡️ **[View full Project 1 documentation](Data_Job_v1\README.md)**
 
 ## Data Jobs Dashboard 2.0 (V2 Single page Focus)

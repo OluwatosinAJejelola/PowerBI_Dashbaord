@@ -26,7 +26,7 @@ Below are selected dashboards from this portfolio. Each project includes its own
 ## Data Jobs Dashboard 2.0 (V2 Single page Focus)
 ![Data Jobs Dashboard 2.0](images/Project2_image1.png)
 
-[View Interactive Dashboard Here](Data_job_v2\Data_Jobs_2.0.pbix)
+[View Interactive Dashboard Here](Data_job_v2/Data_Jobs_2.0.pbix)
 
 ## Key Power BI Skills Utilized
 

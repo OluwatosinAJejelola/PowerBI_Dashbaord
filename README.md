@@ -21,7 +21,7 @@ Below are selected dashboards from this portfolio. Each project includes its own
 - 🔍 Drill-through functionality for deeper data exploration  
 
 
-➡️ **[View full Project 1 documentation](Data_Job_v1\README.md)**
+➡️ **[View full Project 1 documentation](Data_Job_v1/README.md)**
 
 ## Data Jobs Dashboard 2.0 (V2 Single page Focus)
 ![Data Jobs Dashboard 2.0](images/Project2_image1.png)

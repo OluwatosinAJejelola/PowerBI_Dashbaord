@@ -1,4 +1,8 @@
 # E-Commerce Sales & Operational Performance Dashboard
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
+![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analytics-green)
+![Dashboard](https://img.shields.io/badge/Type-Business%20Dashboard-orange)
 
 This project analyzes e-commerce sales and delivery performance using SQL and Power BI to provide executive and operational insights into revenue trends, category performance, and logistics efficiency.
 

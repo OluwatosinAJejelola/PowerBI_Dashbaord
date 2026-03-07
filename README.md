@@ -6,6 +6,7 @@ Below are selected dashboards from this portfolio. Each project includes its own
 
 ### 📈 Data Jobs Dashboard (V1 – Comprehensive Analysis)
 ![Data Jobs Dashboard](images/Project_1_image_1.PNG)
+
 **[View Interactive Dashboard Here](Data_Job_v1/Data_Jobs_Dashboard_1.pbix)**
 
 ## Key Power BI Skills Applied

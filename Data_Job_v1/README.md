@@ -50,7 +50,6 @@ Drill-through functionality enables users to move from high-level summaries to m
 ### Page 1 High-level Market View
 ![Dashboard Page 1](../images/Project_1_image_1.PNG)
 This dashboard acts as your command center for the data job market, highlighting essential KPIs such as total job count, median salaries, and leading job titles, giving you an instant snapshot of market trends.
-
 ### Page 2 Job Title Drill-Through
 ![Dashboard Page 2](../images/Project_1_image_2.PNG)
 This page allows you to dive deeper into specific job titles, providing detailed insights into salary distributions, job availability over time, hiring platforms, and geographic locations for each role.

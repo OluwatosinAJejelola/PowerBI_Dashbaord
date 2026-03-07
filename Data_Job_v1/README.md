@@ -1,8 +1,5 @@
 # Data Jobs Dashboard w/ Power Bi
 
-![Data Jobs Dashboard](../images/Project_1_image_1.PNG)
-
-
 ## Introduction
  This Power BI dashboard was developed to support **job seekers, career switchers, and professionals** exploring new roles in the data field. It addresses a common challenge: information about the data job market is often fragmented and difficult to interpret.
 

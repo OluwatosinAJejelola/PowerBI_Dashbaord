@@ -10,6 +10,17 @@
             "group": "postgres",
             "database": "Sql_data_job_analysis",
             "username": "postgres"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "postgres",
+            "group": "postgres",
+            "database": "Oliste_Ecommerce",
+            "username": "postgres"
         }
     ]
 }

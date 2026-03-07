@@ -7,6 +7,8 @@ Below are selected dashboards from this portfolio. Each project includes its own
 ### 📈 Data Jobs Dashboard (V1 – Comprehensive Analysis)
 ![Data Jobs Dashboard](images/Project_1_image_1.PNG)
 
+**[View Interactive Dashboard Here](Data_Job_v1/Data_Jobs_Dashboard_1.pbix)**
+
 ## Key Power BI Skills Applied
 
 - 🎨 Dashboard layout and visual design best practices  
@@ -21,12 +23,12 @@ Below are selected dashboards from this portfolio. Each project includes its own
 - 🔍 Drill-through functionality for deeper data exploration  
 
 
-➡️ **[View full Project 1 documentation](Data_Job_v1\README.md)**
+➡️ **[View full Project 1 documentation](Data_Job_v1/README.md)**
 
 ## Data Jobs Dashboard 2.0 (V2 Single page Focus)
 ![Data Jobs Dashboard 2.0](images/Project2_image1.png)
 
-[View Interactive Dashboard Here](Data_job_v2\Data_Jobs_2.0.pbix)
+[View Interactive Dashboard Here](Data_job_v2/Data_Jobs_2.0.pbix)
 
 ## Key Power BI Skills Utilized
 
@@ -46,7 +48,3 @@ Below are selected dashboards from this portfolio. Each project includes its own
 ## About This Portfolio
 
 Each dashboard in this portfolio includes its own dedicated `README.md` within its project folder. These documents provide deeper insight into the project goals, data sources, Power BI techniques used, and a closer look at how each dashboard was built.
-
-=======
-➡️ **[View full Project 1 documentation](./Data_Job_v1/README.md)**
->>>>>>> e5f4110459fc86b13404d1cad5d5d01cf4cb80dc

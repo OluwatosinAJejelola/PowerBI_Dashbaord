@@ -47,7 +47,3 @@ Below are selected dashboards from this portfolio. Each project includes its own
 ## About This Portfolio
 
 Each dashboard in this portfolio includes its own dedicated `README.md` within its project folder. These documents provide deeper insight into the project goals, data sources, Power BI techniques used, and a closer look at how each dashboard was built.
-
-=======
-➡️ **[View full Project 1 documentation](./Data_Job_v1/README.md)**
->>>>>>> e5f4110459fc86b13404d1cad5d5d01cf4cb80dc

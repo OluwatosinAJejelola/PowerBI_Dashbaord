@@ -51,7 +51,7 @@ Customers were then segmented into:
 ### 🟢 Page 1 — Executive Overview
 
 [View My Interactive Dashboard here](Customer_segmention_Analysis.pbix)
-![Executive Overview](images\Executive.png)
+![Executive Overview](images/Executive.png)
 
 Provides a high-level summary:
 
@@ -61,7 +61,7 @@ Provides a high-level summary:
 - Spend distribution
 
 ### 🔵 Page 2 — Customer Behavior
-![Customer Behavior](images\Customer.png)
+![Customer Behavior](images/Customer.png)
 Explains why revenue behaves the way it does:
 
 - Purchase frequency by segment
@@ -70,7 +70,7 @@ Explains why revenue behaves the way it does:
 - Customer distribution across segments
 
 ### 🟠 Page 3 — Geographic Revenue Analysis
-![Geographic Insights](images\Geographical.png)
+![Geographic Insights](images/Geographical.png)
 This page answers: *Where is revenue coming from, and where should we expand?*
 
 - Revenue by country (map + ranking)

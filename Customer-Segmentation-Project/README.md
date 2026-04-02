@@ -30,6 +30,18 @@ Performed in PostgreSQL:
 - Ensured valid customer IDs
 
 Final dataset: **~793,000 clean records**
+## 🧠 SQL Pipeline (RFM Logic)
+
+The segmentation was built using a multi-step SQL pipeline:
+
+1. Data Cleaning → remove invalid transactions  
+2. Base Table → customer-level aggregation  
+3. RFM Scoring → assign recency, frequency, monetary scores  
+4. Segmentation → classify customers into business segments  
+5. Final Table → optimized for Power BI  
+
+📂 View full SQL scripts 👉 [rfm_analysis](rfm_analysis/)
+
 
 ## ⚙️ Feature Engineering (RFM)
 
@@ -51,6 +63,14 @@ Customers were then segmented into:
 ### 🟢 Page 1 — Executive Overview
 
 [View My Interactive Dashboard here](Customer_segmention_Analysis.pbix)
+## ▶️ How to Use
+
+1. Download the `.pbix` file from the repository
+2. Open in Power BI Desktop
+3. Use slicers to explore:
+   - Customer Segment
+   - Spend Tier
+   - Country
 ![Executive Overview](images/Executive.png)
 
 Provides a high-level summary:
@@ -137,3 +157,11 @@ This ensures:
 - DAX (advanced calculations & segmentation)
 - Dashboard Design & Storytelling
 - Business Insight Generation
+
+
+## 🔥 What Makes This Project Different
+
+- Goes beyond revenue → identifies **who drives revenue**
+- Combines **behavioral + geographic analysis**
+- Highlights hidden risk using **Average vs Median comparison**
+- Designed for **executive decision-making**, not just reporting

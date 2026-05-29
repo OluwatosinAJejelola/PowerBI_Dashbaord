@@ -62,7 +62,8 @@ Customers were then segmented into:
 
 ### 🟢 Page 1 — Executive Overview
 
-[View My Interactive Dashboard here](Customer_segmention_Analysis.pbix)
+[View My Live Dashboard here](https://app.powerbi.com/view?r=eyJrIjoiMjI2M2I2ZTQtODhiOC00N2NhLThhYjctNTllYWYxZjQwZmNjIiwidCI6IjU2OWMyNDM5LThkNGEtNGE5Yi1hMzZkLWJkZDEwYWRiZmY5NyJ9&pageName=9df0311fa9a7e8fb330e)
+
 ## ▶️ How to Use
 
 1. Download the `.pbix` file from the repository
